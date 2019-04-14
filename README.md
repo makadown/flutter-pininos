@@ -1,6 +1,6 @@
 # pics
 
-A new Flutter project.
+A new Flutter project. Son mis primeros pininos.
 
 ## Getting Started
 
