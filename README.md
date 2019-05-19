@@ -2,6 +2,10 @@
 
 A new Flutter project. Son mis primeros pininos.
 
+## Sitios auxiliares
+
+https://jsonplaceholder.typicode.com
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
