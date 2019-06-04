@@ -1,6 +1,7 @@
 # pics
 
 A new Flutter project. Son mis primeros pininos.
+es solo una app que carga imagenes al presionar un boton
 
 ## Sitios auxiliares
 
